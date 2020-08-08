@@ -7,7 +7,15 @@
 !/.bashrc
 
 # Fish
+!/.config/
+/.config/*
+!/.config/fish/
+/.config/fish/*
+!/.config/fish/functions/
+/.config/fish/functions/*
 !/.config/fish/functions/bash.fish
+!/.config/fish/functions/config.fish
+!/.config/fish/functions/config-commit.fish
 
 # Clang
 !/.clang-format
