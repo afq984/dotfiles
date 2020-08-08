@@ -1,0 +1,10 @@
+[user]
+	email = afg984@gmail.com
+	name = afg
+[core]
+	excludesfile = /home/afg/.git.core.excludesfile
+[color]
+	ui = auto
+[pull]
+	f = only
+	ff = only

@@ -1,0 +1,19 @@
+/*
+!/.dotfiles/
+
+# Bash
+!/.bash_profile
+!/.bashrc
+
+# Fish
+!/.config/fish/functions/bash.fish
+
+# Clang
+!/.clang-format
+
+# Git
+!/.gitconfig
+!/.config/git/ignore
+
+# X
+!/.xinitrc

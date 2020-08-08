@@ -1,0 +1,8 @@
+BasedOnStyle: Google
+AccessModifierOffset: -4
+IndentWidth: 4
+DerivePointerAlignment: false
+PointerAlignment: Left
+AlwaysBreakTemplateDeclarations: true
+ColumnLimit: 100
+AlignAfterOpenBracket: DontAlign
